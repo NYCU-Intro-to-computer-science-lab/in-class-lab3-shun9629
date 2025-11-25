@@ -18,6 +18,5 @@ int main() {
     long long fact = factorial(n);
     long long s = sum(n);
     cout << fact << endl;
-    cout << s << endl;
-    return 0;
+    
 }
